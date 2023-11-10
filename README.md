@@ -1,26 +1,26 @@
-# Project Name
+# Project 8 : Movie Search App
 
-Description of the project ...
+A project wherein a user may search for a movie and retrieve a list of possible titles including ratings, runtime, genres, and more as well as share the movie listing or send feedback through an auto populated email.
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [ ] User sees ...
-* [ ] User can ...
-* [ ] ...
-* [ ] ...
+* [ ] User can input text to search for a movie.
+* [ ] User can hit the search button to initiate a search for a movie.
+* [ ] User can hit the clear button to clear the search bar of text.
+* [ ] User can click on IMDB link and be sent to their browser to go to the IMDb page.
+* [ ] User can click on the Feedback text in the toolbar and send an email to the developer. 
 
 The following **extensions** are implemented:
 
-* ...
-* ...
+* Retrofit
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+<img src='showcase.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -30,7 +30,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Kenneth Harper
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
