@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project8</string>
+    <string name="movie_search_hint">Search movie titles…</string>
+    <string name="toolbar_feedback_text">Email Feedback</string>
+    <string name="imdb_page">IMDb</string>
+
+    <!-- Image Button ContentDescriptions -->
+    <string name="search_button_description">Search</string>
+    <string name="clear_button_description">Clear Search Entry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
