@@ -22,11 +22,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='showcase.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had challenges getting the API calls to work, only to learn I had forgotten to capitalize a value field.
 
 ## License
 
